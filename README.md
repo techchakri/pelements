@@ -78,6 +78,7 @@ Requirements to setup
 ---------------------
 - Create React App
 - Install & Setup Tailwindcss
+- Install & Setup react-router-dom (npm install react-router-dom)
 
 # Features
 - Sign In & Sign Up
